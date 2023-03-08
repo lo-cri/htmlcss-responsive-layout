@@ -5,6 +5,10 @@
     font-size: 18px;
 }
 
+body{
+    line-height: 30px;
+}
+
 header{
     background-color: #0070FF;
     position: fixed;
@@ -173,6 +177,7 @@ h5{
 
 .benefits{
     background-color: #9493e7;
+    padding-bottom: 35px;
 }
 
 .title-benefits{
@@ -195,4 +200,70 @@ h5{
     color:#9493e7;
     font-size: 40px;
     font-weight: bold;
+}
+
+.btn-card{
+    background-color: #9493e7;
+    color: white;
+    font-weight: bold;
+    padding: 5px 40px;
+    border-radius: 20px;
+}
+
+.about-us{
+    margin: 70px 35px;
+
+}
+
+.img-bg{
+    background-image: url(../img/about.jpg);
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-top: 30px;
+}
+
+.quote-img{
+    color: #9493e7;
+    font-size: 60px;
+    padding: 0 150px;
+}
+
+.get-started{
+    text-align: center;
+    color: white;
+    padding: 20px 30px;
+}
+
+#light-text{
+    font-weight: 20;
+}
+
+h1{
+    font-size: 50px;
+    color: orange;
+    padding: 30px;
+}
+
+.btn-white{
+    background-color: white;
+    color: #9493e7;
+    margin: 30px 30px;
+    border-radius: 30px;
+    padding: 10px 25px;
+}
+
+.black-bg{
+    background-color: #373B3E;
+    text-align: center;
+    color: white;
+    padding: 20px 20px;
+}
+
+#space{
+    padding: 30px 0;
+}
+
+.black-bg u{
+    color: #9493e7;
 }
