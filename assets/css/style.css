@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+header{
+    background-color: #0070FF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+
+.padding-top-10{
+    padding-top: 10px;
+}
+
+header > img{
+    width: 20px;
+}
+
+header div ul{
+    display: none;
+}
+
+.space-between{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+
+.div-azzurri{
+    margin-top: 150px;
+}
+
+h2{
+    color: #0070FF;
+    font-size: 24px;
+}
+
+/* MARGIN TOP CREATO PER OGNI <P>*/
+p{
+    margin-top: 20px;
+}
+
+.demo-application{
+    background-color: lightskyblue;
+    margin: 30px 30px;
+    border-radius: 20px;
+}
+
+.mrg-20{
+    margin: 20px 0;
+}
+
+.mrg-30{
+    margin: 20px 20px;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bb{
+    background-color: #0070FF;
+    width: 140px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin: 20px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.symbol{
+    color: #0070FF;
+    margin-bottom: 20px;
+}
+
+/*sfondo lilla*/
+.lily{
+    background-color: #9493e7;
+    padding: 20px;
+}
+
+/* .planning{
+    width: 120px;
+} */
+
+.plan-wmn{
+    margin: 20px 30px;
+}
+
+.plan-wmn img{
+    width: 340px;
+}
+
+.plan-m{
+    background-color: white;
+    color: black;
+    margin: 50px 30px;
+    border-radius: 40px;
+    padding-bottom: 15px;
+}
+
+.plan-m img{
+    width: 340px;
+}
+
+.text-white{
+    color: white;
+}
+
+h3{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 22px;
+}
+
+h5{
+    color: #9493e7;
+    font-size: 24px;
+}
+
+.btn-lily{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#arrow-down{
+    background-color: #9493e7;
+    width: 30px;
+    border-radius: 30px;
+    padding: 15px 20px;
+}
+
+.container-lily{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.testimonials{
+    margin: 20px 40px;
+}
+
+.single-card{
+    background-color: #9493e7;
+    margin: 10px 40px;
+    border-radius: 45px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.single-card img{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.single-card p{
+    margin: 15px 20px;
+}
+
+.benefits{
+    background-color: #9493e7;
+}
+
+.title-benefits{
+    color:white;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card-white{
+    background-color: white;
+    width: 320px;
+    margin: 20px 40px;
+    border-radius: 30px;
+    padding: 25px;
+}
+
+.number{
+    color:#9493e7;
+    font-size: 40px;
+    font-weight: bold;
+}
